@@ -1,8 +1,6 @@
-
+![alt text](https://github.com/lazydeveloper/lazydeveloper/blob/master/lazydeveloper.jpg?raw=true)
 ### Hi There! 👋
 Welcome to my github profile @LazyDeveloper. I like to write in JavaScript and focus on front-end development.
-
-![alt text](https://github.com/lazydeveloper/lazydeveloper/blob/master/lazydeveloper.jpg?raw=true)
 
 - 🔭 I’m currently working on my own mini angular project
 - 🌱 I’m currently learning JavaScript, TypeScript and Angular
