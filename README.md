@@ -6,7 +6,8 @@ Welcome to my github profile @LazyDeveloper. I like to write in JavaScript and f
 - 👯 I’m looking to collaborate on any simple webapplications
 - 🤔 I’m looking for help with advanced angular concepts
 
-Follow me on | [dev.to](https://dev.to/lazydeveloper) | [gitlab](https://github.com/lazydeveloper) | [youtube](https://www.youtube.com/lazydeveloper) |
+Follow me on | [dev.to](https://dev.to/lazydeveloper) | [gitlab](https://github.com/lazydeveloper) | [youtube](https://www.youtube.com/lazydeveloper) | [codepen.io](https://codepen.io/lazydeveloper) |
+
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
