@@ -1,4 +1,3 @@
-![alt text](https://github.com/lazydeveloper/lazydeveloper/blob/master/lazydeveloper.jpg?raw=true)
 ### Hi There! 👋
 Welcome to my github profile @LazyDeveloper. I like to write in JavaScript and focus on front-end development.
 
