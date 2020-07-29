@@ -1,5 +1,5 @@
 ### Hi There! 👋
-Welcome to my github profile @LazyDeveloper. I like to write in JavaScript and focus on front-end development.
+Welcome to my github profile. I like to write in JavaScript and focus on front-end development.
 
 - 🔭 I’m currently working on my own mini angular project
 - 🌱 I’m currently learning JavaScript, TypeScript, and Angular
