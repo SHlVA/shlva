@@ -1,10 +1,10 @@
 ### Hi There! 👋
 Welcome to my github profile. I like to write in JavaScript and focus on front-end development.
 
-- 🔭 I’m currently working on my own mini angular project
-- 🌱 I’m currently learning JavaScript, TypeScript, and Angular
-- 👯 I’m looking to collaborate on any simple web applications
-- 🤔 I’m looking for help with advanced angular concepts
+- 🔭 I've started learning Python.
+- 🌱 Soon, I'll kick start with my first python application.
+- 👯 Looking to collaborate on anything releated to python.
+- 😄 I bought a PS4 to play last of us.  
 
 Follow me on | [dev.to](https://dev.to/lazydeveloper) | [gitlab](https://github.com/lazydeveloper) | [youtube](https://www.youtube.com/lazydeveloper) | [codepen](https://codepen.io/lazydeveloper) |
 
