@@ -6,7 +6,7 @@ I do web-development and write javascript, python to make things work.
 - 👯 Looking to collaborate on anything releated to js and python.
 - 😄 I bought a PS4 to play last of us, but I'm doing a lot of Ghost of Tshushima
 
-Follow me on | [gitlab](https://gitlab.com/ckpro) | [homepage](https://ckpro.in/) | [telegram](https://telegram.me/ckpro) |
+Follow me on | [gitlab](https://gitlab.com/ckpro) | [homepage](https://ckpro.in/) or direct message me on [telegram](https://telegram.me/ckpro) |
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
