@@ -1,12 +1,12 @@
 ### Hi There! 👋
-Welcome to my github profile. I like to write in JavaScript and focus on front-end development.
+I do web-development and write javascript, python to make things work.
 
-- 🔭 I've started learning Python.
-- 🌱 Soon, I'll kick start with my first python application.
-- 👯 Looking to collaborate on anything releated to python.
-- 😄 I bought a PS4 to play last of us.  
+- 🔭 I'm currently not learning anything.
+- 🌱 I'm currently not learning anything.
+- 👯 Looking to collaborate on anything releated to js and python.
+- 😄 I bought a PS4 to play last of us, but I'm doing a lot of Ghost of Tshushima
 
-Follow me on | [dev.to](https://dev.to/lazydeveloper) | [gitlab](https://gitlab.com/lazydeveloper) | [youtube](https://www.youtube.com/lazydeveloper) | [codepen](https://codepen.io/lazydeveloper) |
+Follow me on | [dev.to](https://dev.to/ckpro) | [gitlab](https://gitlab.com/ckpro) | [codepen](https://codepen.io/ckpro) |
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
