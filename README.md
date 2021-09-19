@@ -2,7 +2,7 @@
 I do web-development and write javascript, python to make things work.
 
 - 🔭 I'm currently not learning anything.
-- 🌱 I'm currently not learning anything.
+- 🌱 I'm currently not working on anything.
 - 👯 Looking to collaborate on anything releated to js and python.
 - 😄 I bought a PS4 to play last of us, but I'm doing a lot of Ghost of Tshushima
 
