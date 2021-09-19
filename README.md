@@ -2,8 +2,8 @@
 I do web-development and write javascript, python to make things work.
 
 - 🔭 I'm currently not learning anything.
-- 🌱 I'm currently not working on anything.
-- 👯 Not Looking to collaborate.
+- 🌱 not working on anything.
+- 👯 or not looking to collaborate.
 - 😄 I bought a PS4 to play last of us, but I'm doing a lot of Ghost of Tshushima
 
 Here is my [homepage](https://ckpro.in/), [gitlab](https://gitlab.com/ckpro) and in case if you want to reach me directly [telegram](https://telegram.me/ckpro)
