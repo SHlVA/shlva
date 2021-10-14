@@ -1,5 +1,5 @@
 ### Hi There! 👋
-I do web-development and write javascript, python to make things work.
+I do web development and write javascript, python to make things work.
 
 - 🔭 I'm currently not learning anything.
 - 🌱 not working on anything.
