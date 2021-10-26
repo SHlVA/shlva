@@ -2,9 +2,10 @@
 I'm a python developer and I do web development in my free time. 
 - 🔭 I'm working as a software engineer
 - 🌱 I'm an Open Source Enthusiast
-- 👯 I'm currently learning more about Python
+- 👯 I'm currently learning more about Python Programming
+- I'm also learning AWS
 
-Follow me on on GitHub and if you want to reach me directly [telegram](https://telegram.me/ckpro)
+Follow me on on GitHub and you can reach me directly on [telegram](https://telegram.me/ckpro)
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
