@@ -1,9 +1,9 @@
 ### Namaste 🙏
 I'm a python developer and I do web development in my free time. 
-- 🔭 I'm working as a software engineer
-- 🌱 I'm an Open Source Enthusiast
-- 👯 I'm currently learning more about Python Programming
-- I'm also learning AWS
+- 💼 I'm working as a software engineer
+- ❤ I'm an Open Source Enthusiast
+- 🐍 I'm currently learning more about Python Programming
+- ☁ Also learning AWS
 
 Follow me on on GitHub and you can reach me directly on [telegram](https://telegram.me/ckpro)
 
