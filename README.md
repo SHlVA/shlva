@@ -1,4 +1,4 @@
-### Hi There! 👋
+### Namaste 🙏
 I'm a python developer and I do web development in my free time. 
 - 🔭 I'm working as a software engineer
 - 🌱 I'm an Open Source Enthusiast
