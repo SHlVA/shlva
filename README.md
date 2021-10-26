@@ -1,6 +1,5 @@
 ### Hi There! 👋
-I do web development and write javascript, python to make things work.
-
+I'm a python developer and I do web development in my free time. 
 - 🔭 I'm currently not learning anything.
 - 🌱 not working on anything.
 - 👯 or not looking to collaborate.
