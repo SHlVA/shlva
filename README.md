@@ -1,11 +1,10 @@
 ### Hi There! 👋
 I'm a python developer and I do web development in my free time. 
-- 🔭 I'm currently not learning anything.
-- 🌱 not working on anything.
-- 👯 or not looking to collaborate.
-- 😄 I bought a PS4 to play last of us, but I'm doing a lot of Ghost of Tshushima
+- 🔭 I'm working as a software engineer
+- 🌱 I'm an Open Source Enthusiast
+- 👯 I'm currently learning more about Python
 
-Here is my [homepage](https://ckpro.in/), [gitlab](https://gitlab.com/ckpro) and in case if you want to reach me directly [telegram](https://telegram.me/ckpro)
+Follow me on on GitHub and if you want to reach me directly [telegram](https://telegram.me/ckpro)
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
