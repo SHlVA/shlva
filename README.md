@@ -1,4 +1,4 @@
-# Namaste! 🙏
+### Namaste! 🙏
 I'm a python developer and I do web development in my free time. 
 - 💼 I'm working as a software engineer at IHS Markit
 - ❤ I love contributing more towards open source. 
