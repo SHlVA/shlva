@@ -1,9 +1,9 @@
 ### Namaste 🙏
 I'm a python developer and I do web development in my free time. 
-- 💼 I'm working as a software engineer
-- ❤ I'm an Open Source Enthusiast
-- 🐍 I'm currently learning more about Python Programming
-- ☁ Also learning AWS
+- 💼 I'm working as a software engineer at IHS Markit
+- ❤ I love contributing more towards open source. 
+- 🐍 I write scripts in python to make things work.
+- ☁ looking forward to learn AWS and cloud tech.
 
 Follow me on on GitHub - check out [my blog](https://lazydeveloper.github.io/) and you can reach me directly on [telegram](https://telegram.me/ckpro)
 
