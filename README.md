@@ -5,7 +5,7 @@ I'm a python developer and I do web development in my free time.
 - 🐍 I write scripts in python to make things work.
 - ☁ looking forward to learn AWS and cloud tech.
 
-Follow me on GitHub - check out [my blog](https://lazydeveloper.github.io/) and you can reach me directly on [telegram](https://telegram.me/ckpro)
+follow me on github - check out [my blog](https://lazydeveloper.github.io/) and you can reach me directly on [telegram](https://telegram.me/ckpro)
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
