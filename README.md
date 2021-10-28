@@ -4,7 +4,7 @@
 - 🐍 I write scripts in python to make things work.
 - ☁ looking forward to learn AWS and cloud tech.
 
-follow me on github - check out [my blog](https://lazydeveloper.github.io/) and you can reach me directly on [telegram](https://telegram.me/the_lazydeveloper)
+follow me on github, check out [my blog](https://lazydeveloper.github.io/) or you can DM on [telegram](https://telegram.me/the_lazydeveloper)
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
