@@ -1,5 +1,5 @@
 ### Namaste! 🙏
-- 💼 I'm working as a software engineer at IHS Markit
+- 💼 I'm working as a software engineer at S&P Global
 - ❤ I love contributing more towards open source. 
 - 🐍 I write scripts in python to make things work.
 - ☁ looking forward to learn AWS and cloud tech.
