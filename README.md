@@ -1,11 +1,11 @@
-### Hello there! 
-- You can call me "Shiva"
-- I'm a software engineer (Java, Python, JavaScript)
-- I'm interested in building apps and web apps. 
-- I'm an occasional blogger www.shiva.dev
-- I'm up to learn new things every day. 
+### Hello there! 👋
+- 🙋🏻‍♂️ You can call me "Shiva"
+- 🧑🏻‍💻 I'm a software engineer (Java, Python, JavaScript)
+- 📀 I'm interested in building apps and web apps. 
+- ⌨️ I'm an occasional blogger www.shiva.dev
+- 🧐 I'm up to learn new things every day. 
 
-follow me on github, check out [my blog](https://shiva.dev/)
+follow me on github!
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
