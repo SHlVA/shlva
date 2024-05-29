@@ -1,10 +1,8 @@
-### Namaste! 🙏
-- 💼 I'm working as a software engineer at S&P Global
-- ❤ I love contributing more towards open source. 
-- 🐍 I write scripts in python to make things work.
-- ☁ looking forward to learn AWS and cloud tech.
+### Hello there!
+- 💼 Software Engineer 
+- ❤ Learning new things every day. 
 
-follow me on github, check out [my blog](https://lazydeveloper.github.io/) or you can DM on [telegram](https://telegram.me/ckpro)
+follow me on github, check out [my blog](https://shiva.dev/)
 
 <!--
 **lazydeveloper/lazydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
